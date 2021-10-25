@@ -5,4 +5,4 @@ Reddit Fetching Script has been added. Can retrieve any reddit post link from an
 
 Will be working on a Tensorflow project after Scraping the data neccesary.
 
-Mobile app frontend will be implemented as well.
+Mobile app frontend will need to be implemented as well.
